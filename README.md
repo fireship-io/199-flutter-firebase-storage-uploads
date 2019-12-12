@@ -1,6 +1,6 @@
 ## Episode 199 - Flutter Firebase Storage Uploads
 
-Capture, crop, and upload image files to a Firebase Cloud Storage bucket from a Flutter app.  Watch the [full video lesosn](https://fireship.io/lessons/flutter-file-uploads-cloud-storage/). 
+Capture, crop, and upload image files to a Firebase Cloud Storage bucket from a Flutter app.  Watch the [full video lesson](https://fireship.io/lessons/flutter-file-uploads-cloud-storage/). 
 
 ### Instructions
 
